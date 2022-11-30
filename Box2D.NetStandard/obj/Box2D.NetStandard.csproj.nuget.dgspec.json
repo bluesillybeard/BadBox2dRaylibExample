@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bluesillybeard/VisualStudioCodeProjects/learnRayLib2/Box2D.NetStandard/Box2D.NetStandard.csproj": {}
+  },
+  "projects": {
+    "/home/bluesillybeard/VisualStudioCodeProjects/learnRayLib2/Box2D.NetStandard/Box2D.NetStandard.csproj": {
+      "version": "2.4.5-alpha",
+      "restore": {
+        "projectUniqueName": "/home/bluesillybeard/VisualStudioCodeProjects/learnRayLib2/Box2D.NetStandard/Box2D.NetStandard.csproj",
+        "projectName": "Box2D.NetStandard",
+        "projectPath": "/home/bluesillybeard/VisualStudioCodeProjects/learnRayLib2/Box2D.NetStandard/Box2D.NetStandard.csproj",
+        "packagesPath": "/home/bluesillybeard/.nuget/packages/",
+        "outputPath": "/home/bluesillybeard/VisualStudioCodeProjects/learnRayLib2/Box2D.NetStandard/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bluesillybeard/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "http://teamcity.monogame.net/guestAuth/app/nuget/feed/_Root/default/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

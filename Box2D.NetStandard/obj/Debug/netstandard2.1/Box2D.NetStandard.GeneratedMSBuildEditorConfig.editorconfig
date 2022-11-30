@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Box2D.NetStandard
+build_property.ProjectDir = /home/bluesillybeard/VisualStudioCodeProjects/learnRayLib2/Box2D.NetStandard/

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Box2D.NetStandard</id>
+    <version>2.4.5-alpha</version>
+    <authors>Erin Catto, Ben Ukhanov, Hugh Phoenix-Hulme</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/benukhanov/box2d-netstandard</projectUrl>
+    <description>Box2D.NetStandard is the C# port of C++ Box2D. This package supports .NET Standard 2.1.</description>
+    <copyright>Copyright © Erin Catto, Ben Ukhanov, Hugh Phoenix-Hulme 2021</copyright>
+    <tags>Box2D, Physics, .NET, Standard, Core</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/bluesillybeard/VisualStudioCodeProjects/learnRayLib2/Box2D.NetStandard/bin/Debug/netstandard2.1/Box2D.NetStandard.dll" target="lib/netstandard2.1/Box2D.NetStandard.dll" />
+  </files>
+</package>

@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Box2D.NetStandard/2.4.5-alpha": {
+        "runtime": {
+          "Box2D.NetStandard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Box2D.NetStandard/2.4.5-alpha": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
